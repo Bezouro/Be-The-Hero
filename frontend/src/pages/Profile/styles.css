@@ -62,6 +62,7 @@
     position: absolute;
     right: 24px;
     top: 24px;
+    background: transparent;
     border: 0;
     transition: opacity 0.2s;
 }
